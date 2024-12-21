@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jhchou/jhchou.r-universe.dev
 	branch = HEAD
+[submodule "peditools"]
+	path = peditools
+	url = https://github.com/jhchou/peditools
